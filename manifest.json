@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "updated": "2026-11-03",
+  "regions": [
+    {
+      "id": "moscow_oblast",
+      "name": "Московская область",
+      "fileName": "moscow_oblast-v2026.11.mbtiles",
+      "sizeBytes": 745132032,
+      "sha256": "42533e1397592207183e08d48520a831fe388adff610ac01ad4c362502e1a855",
+      "maxZoom": 15,
+      "url": "https://github.com/dimateg/Offroad-maps/releases/download/maps-v2026.11/moscow_oblast-v2026.11.mbtiles"
+    },
+    {
+      "id": "ryazan_oblast",
+      "name": "Рязанская область",
+      "fileName": "ryazan_oblast-v2026.11.mbtiles",
+      "sizeBytes": 178487296,
+      "sha256": "d45c1d266824c258968bb1343ceb4cd18821965e7d9e9e9f86bd5ffabaea16db",
+      "maxZoom": 15,
+      "url": "https://github.com/dimateg/Offroad-maps/releases/download/maps-v2026.11/ryazan_oblast-v2026.11.mbtiles"
+    }
+  ]
+}
